@@ -12,7 +12,7 @@ Simple Linear Regression
 
 
 - Sparks Foundation Internship Task 2: Task2-DataScience-LANFRI.ipynb
--
+
 Task 2: To predict the optimum number of clusters in the Iris dataset and represent it visually.
  
  Unsupervised Learning (K Means Clustering) - Iris Dataset
